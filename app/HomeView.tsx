@@ -33,7 +33,7 @@ export default function HomeView({ showBanner }: HomeViewProps) {
         }}
       >
         <h1
-          className="font-extrabold"
+          className="font-extrabold drop-shadow-[0_2.2px_2.2px_rgba(0,0,0,0.8)]"
           style={{
             color: "white",
             textAlign: "center",
