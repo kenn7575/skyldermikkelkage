@@ -41,7 +41,7 @@ export default function HomeView({ showBanner }: HomeViewProps) {
             margin: 0,
           }}
         >
-          {showBanner ? "SKYLDER KAGE" : "Mikkel's Skylder Kage"}
+          {showBanner ? "Ja" : "Nej"}
         </h1>
       </div>
     </div>
